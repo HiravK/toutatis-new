@@ -1,6 +1,4 @@
 
-
-cat > README.md <<'MD'
 # toutatis-new
 
 Repurposed and maintained by **Hirav Kadikar (HiravK)**.  
