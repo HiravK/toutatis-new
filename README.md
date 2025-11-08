@@ -1,7 +1,5 @@
 
 
-cd /Users/hiravkadikar/Documents/Projects/toutatis-new
-
 cat > README.md <<'MD'
 # toutatis-new
 
